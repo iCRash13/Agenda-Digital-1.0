@@ -1,8 +1,4 @@
-<%-- 
-    Document   : add
-    Created on : 30-ago-2018, 19:58:16
-    Author     : Joel
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -10,6 +6,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link href="css/bootstrap.css" rel="stylesheet" type="text/css"/>
+        <link href="./css/stilo.css" rel="stylesheet" type="text/css"/>    
         <title>JSP Page</title>
     </head>
     <body>
